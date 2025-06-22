@@ -1,4 +1,4 @@
-# MSBL: Multiple Sparse Bayesian Learning with SBL Comparison
+# MSBL: Multiple Sparse Bayesian Learning
 
 This repository provides a MATLAB implementation based on the paper:  
 **"An Empirical Bayesian Strategy for Solving the Simultaneous Sparse Approximation Problem"**  
